@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: co.lemonlabs:expandable-button-menu:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandable-button-menu-1.0.0.aar/5f52dc41f96707388b736b655a3ddea3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/expandable-button-menu-1.0.0.aar/5f52dc41f96707388b736b655a3ddea3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.lemonlabs/expandable-button-menu/1.0.0/5a92466abf007d8b7ce3bcdc72daf5baf63cc4cf/expandable-button-menu-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
